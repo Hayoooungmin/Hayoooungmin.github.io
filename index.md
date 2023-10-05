@@ -35,8 +35,10 @@
 - 이미지  
   <img src="./img/main1.PNG">
   <img src="./img/main2.PNG">
-- 동영상
-  [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
+
+  
+- 동영상 <br><br>
+  [![](./img/main.jpg)]([https://www.youtube.com/watch?v=5xy4n73WOMM](https://youtu.be/RZblnRfX59o?si=n3capwuD_0eEBZwV)https://youtu.be/RZblnRfX59o?si=n3capwuD_0eEBZwV)
 
 <br><br>
 
