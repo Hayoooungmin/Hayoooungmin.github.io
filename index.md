@@ -38,7 +38,7 @@
 
   
 - 동영상 <br><br>
-  [![](./img/main.jpg)]([https://www.youtube.com/watch?v=5xy4n73WOMM](https://youtu.be/RZblnRfX59o?si=n3capwuD_0eEBZwV)https://youtu.be/RZblnRfX59o?si=n3capwuD_0eEBZwV)
+  [![](./img/main.jpg)](https://www.youtube.com/watch?v=RZblnRfX59o)
 
 <br><br>
 
