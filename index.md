@@ -33,8 +33,8 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
-  <img src="./img/main1.jpg">
-  <img src="./img/main2.jpg">
+  <img src="./img/main1.PNG">
+  <img src="./img/main2.PNG">
 - 동영상
   [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
 
