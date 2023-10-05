@@ -37,7 +37,8 @@
   <img src="./img/main2.PNG">
 
   
-- 동영상 <br><br>
+- 동영상 <br>
+  현재 지구가 처한 상황 <br>
   [![](./img/main.jpg)](https://www.youtube.com/watch?v=RZblnRfX59o)
 
 <br><br>
