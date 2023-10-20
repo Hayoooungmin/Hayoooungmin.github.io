@@ -48,8 +48,7 @@
 # [관련 이미지 & 동영상] <a name = '2'></a>
 
 - 이미지  
-  <img src="./img/main1.PNG">
-  <img src="./img/main2.PNG">
+  <img src="./img/관련이미지.PNG">
 
   
 - 동영상 <br>
