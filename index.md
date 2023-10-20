@@ -362,6 +362,8 @@ PC용으로 개발, 저사양으로도 플레이 할 수 있도록 개발할 예
 
 ## b. 시간별 흐름도 flowchart <a name = '72'></a>
 
+<img src="./img/flowchart.png">
+
 <br>
 
 ## c. 키보드 이벤트에 대한 흐름도 <a name = '73'></a>
