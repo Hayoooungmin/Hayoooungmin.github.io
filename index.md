@@ -191,8 +191,9 @@ PC용으로 개발, 저사양으로도 플레이 할 수 있도록 개발할 예
 |13|무기|<img src="./img/방망이.png" height="300">|
 |14|재활용센터|<img src="./img/재활용센터.PNG" height="300">|
 |15|재활용센터 내부|<img src="./img/공장내부.PNG" height="300">|
-|16|수집품|<img src="./img/재활용용품보관.png" width="500">|
-|17|지구온난화 수치|<img src="./img/지구온난화수치.png" width="500">|
+|16|재활용센터 내부|<img src="./img/주민집사진.PNG" height="300">|
+|17|수집품|<img src="./img/재활용용품보관.png" width="500">|
+|18|지구온난화 수치|<img src="./img/지구온난화수치.png" width="500">|
 
 <br>
 
