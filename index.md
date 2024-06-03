@@ -192,9 +192,10 @@ PC용으로 개발, 저사양으로도 플레이 할 수 있도록 개발할 예
 |17|주민집|<img src="./img/펭귄마을.PNG" height="300">|
 |18|재활용센터|<img src="./img/공장외관.PNG" height="300">|
 |19|재활용센터 내부|<img src="./img/공장내부.PNG" height="300">|
-|20|수집품|<img src="./img/재활용용품보관.png" width="500">|
-|21|지구온난화 수치|<img src="./img/지구온난화수치.png" width="500">|
-|22|체력|<img src="./img/지구온난화수치.png" width="500">|
+|20|전투 스테이지1|<img src="./img/전투1.PNG" height="300">|
+|21|수집품|<img src="./img/재활용용품보관.png" width="500">|
+|22|지구온난화 수치|<img src="./img/지구온난화수치.png" width="500">|
+|23|체력|<img src="./img/지구온난화수치.png" width="500">|
 
 <br>
 
