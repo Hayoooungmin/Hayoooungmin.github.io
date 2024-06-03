@@ -163,7 +163,7 @@ Low-Poly 그래픽을 활용해 남극을 배경으로 한 펭귄마을과 스�
 
 ## 4. 기술
 
-Unity Engine과 Blender를 활용해 게임을 제작
+Unity Engine과 Blender. 3ds max, Zbrush, Substance Painter를 활용해 게임을 제작
 
 PC용으로 개발, 저사양으로도 플레이 할 수 있도록 개발할 예정.
 
