@@ -191,7 +191,7 @@ PC용으로 개발, 저사양으로도 플레이 할 수 있도록 개발할 예
 |13|무기|<img src="./img/방망이.png" height="300">|
 |14|배경|<img src="./img/깃허브_배경.PNG" height="300">|
 |15|촌장 도널드 집|<img src="./img/촌장하우스.PNG" height="300">|
-|16|괴짜펭귄 집|<img src="./img/괴짜펭귄 집.PNG" height="300">|
+|16|괴짜펭귄 집|<img src="./img/괴짜집.PNG" height="300">|
 |17|주민집|<img src="./img/주민집사진.PNG" height="300">|
 |18|재활용센터|<img src="./img/재활용센터.PNG" height="300">|
 |19|재활용센터 내부|<img src="./img/공장내부.PNG" height="300">|
